@@ -8,7 +8,7 @@ README file created date :1/7/22
 python project Bikeshare
 
 ### Description
-Calculate statistics and build an interactive environment by a user choose the data and filter for a dataset to analyze in three different cities.
+Calculate statistics and build an interactive environment by a user choose the data and filter for bikeshare to analyze between three different cities.
 
 ### Files used
 bikeshare.py
